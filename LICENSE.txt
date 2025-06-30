@@ -1,0 +1,17 @@
+Fraudnetic Agent SDK License Agreement
+Version 1.0 – © [2025] Fraudnetic Technologies
+
+This software is the proprietary property of Fraudnetic Technologies and is licensed, not sold.
+
+Permission is hereby granted to use the `fraudnetic-agent-v2` SDK strictly within:
+1. The official Fraudnetic SaaS platform, or
+2. Platforms, products, or systems operated by officially licensed partners with written authorization from Fraudnetic Technologies.
+
+Redistribution, sublicensing, modification, reverse engineering, or use of this software outside the above scope is strictly prohibited without express written permission.
+
+This SDK is provided "as is", without warranty of any kind, express or implied.
+
+By installing, copying, or using this software, you agree to be bound by the terms above. Unauthorized use may result in legal action.
+
+For licensing inquiries, please contact:
+📩 legal@fraudnetic.com
