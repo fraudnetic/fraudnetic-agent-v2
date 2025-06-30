@@ -1,0 +1,30 @@
+{
+  "name": "fraudnetic-agent-v2",
+  "version": "0.0.1",
+  "description": "Fraudnetic JS integration library V2",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraudnetic/fraudnetic-agent-v2.git"
+  },
+  "keywords": [
+    "fraudnetic",
+    "typescript",
+    "agent"
+  ],
+  "author": "Davit G.",
+  "license": "MIT",
+  "homepage": "https://github.com/fraudnetic/fraudnetic-agent-v2",
+  "files": [
+    "interface/options.interface.d.ts",
+    "library/agent.class.d.ts",
+    "library/canvas.fingerprint.class.d.ts",
+    "library/cookie.class.d.ts",
+    "library/detectIncognito.d.ts",
+    "library/log.class.d.ts",
+    "index.js",
+    "index.d.ts",
+    "config.class.d.ts"
+  ]
+}
