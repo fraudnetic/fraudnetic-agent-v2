@@ -44,6 +44,8 @@ export default class Agent {
      */
     static getMathFingerprint(): number;
     static getBrowserFingerprint(): Promise<number>;
+    private static validateOSDetection;
+    private static getOSFromAPIs;
     static getDeviceMetadata(): Promise<{
         browser_name: string;
         browser_version: string;
@@ -52,5 +54,6 @@ export default class Agent {
         device_type: string;
         cookies: boolean;
         device_is_rooted: boolean;
+        user_agent: string;
     }>;
 }
